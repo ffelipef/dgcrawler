@@ -1,2 +1,2 @@
 # dgcrawler
-Dungeon crawler game in C
+Dungeon crawler em C
